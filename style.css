@@ -1,0 +1,289 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  font-size: 62.5%;
+
+  --color-backGround-body: linear-gradient(287.56deg, #C2E9FB 0%, #A1C4FD 100%);
+  --color-text-h1: rgb(18, 1, 1);
+  --color-text-p: rgba(52, 53, 91, 0.8);
+  --color-backGround-scre1: #fdfcfc;
+  
+  
+  /*--BTN---*/
+    --btn-background: #7879F1;
+    --btn-text-color: #FFFFFF;
+    --btn-hover: #9b9bf7;
+
+   
+  }
+
+
+/*Variavel do dark-Mode*/
+.body-list.black {
+
+
+  --color-text-h1: rgb(255, 255, 255);
+  --color-text-p: rgba(248, 248, 252, 0.8);
+  --color-backGround-scre1: #5a5757;
+  --color-backGround-body: rgb(53, 49, 49);
+
+
+  --btn-background: #fcfcfc;
+  --btn-text-color: #2a2828;
+  --btn-hover: #aeaeaf;
+
+  
+
+
+}
+ 
+
+.body-list{
+    transition: 0.9s;
+  font-size: 1.6rem;
+  background: var(--color-backGround-body);
+   
+
+
+}
+ 
+ 
+
+.page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: min-content;
+  margin: auto;
+
+}
+
+.screnn1, .screnn2 {
+  background-color: var(--color-backGround-scre1);
+  margin: 6.7rem auto;
+  width: 35.6rem;
+  height: 34.2rem;
+  display: flex;
+  padding: 4.8rem;
+  border-radius: 2.3rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  border: 2px solid rgb(245, 244, 241);
+}
+
+.screnn1 h1{
+  font-family: 'Montserrat';
+  font-size: 2.4rem;
+  text-align: center;
+  margin-bottom: 1.2rem;
+  color: var(--color-text-h1);
+}
+
+
+.screnn1 p {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-size: 1.6rem;
+  text-align: center;
+  color: var(--color-text-p);
+}
+
+
+.screnn1 form{
+  display: flex;
+}
+
+.screnn1 form button {
+  display: flex;
+  align-items: center;
+  padding: 1.6rem;
+  width: 100%;
+  height: 5.3rem;
+  left: 194.5rem;
+  top: 14.5rem;
+  background: var(--btn-background);
+  border-radius: 0px 4px 4px 0px;
+  cursor: pointer;
+  border: none;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 2.1rem;
+  text-align: center;
+  color: var(--btn-text-color);
+}
+
+
+.screnn1 form button:hover{
+  background: var(--btn-hover);
+}
+
+.screnn1 form input {
+  padding: 0.6rem;
+  width: 9rem;
+  height: 5.3rem;
+  left: 151.5rem;
+  top: 14.5rem;
+  background: #DCE2E9;
+  border-radius: 4px 0px 0px 4px;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+
+/*=========================-Scream-2=====================*/
+
+.screnn2 h2{
+  font-family: 'Montserrat';
+  font-size: 2.4rem;
+  text-align: center;
+  margin-bottom: 1.2rem;
+  
+}
+
+.screnn2 button {
+  display: flex;
+  align-items: center;
+  padding: 1.6rem;
+  width: 16.6rem;
+  height: 5.3rem;
+  left: 194.5rem;
+  top: 14.5rem;
+  background: #7879F1;
+  border-radius: 4px 4px 4px 4px;
+  cursor: pointer;
+  border: none;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 2.1rem;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.screnn2 button:hover{
+  background: #9b9bf7;
+  transition: 0.3s;
+  
+}
+.screnn2 p {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-size: 1.6rem;
+  text-align: center;
+  color: rgba(52, 53, 91, 0.8);
+}
+.hide{
+  display: none;
+}
+
+/*=================dark-mode==================*/
+
+
+
+
+.dark-mode {
+    transition: 0.9s;
+  position: absolute;
+  top: 2.1rem;
+  right: 1.4rem;
+  cursor: pointer;
+
+
+  
+}
+
+  
+
+  
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+
+  
+
+  
+ 
+
+
+  
+  
+    
+  
+
+
+ 
+
+  
+
+
