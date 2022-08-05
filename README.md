@@ -1,6 +1,6 @@
 ## 🔮 Jogo da Adivinhação🔮
 
-> Nesse projeto feito no Explorer, peguei um exercicio de lógica que é requisitado que o usuário tem que adivinhar um número, e em cima disso apliquei novos conhecimentos para poder trabalhar com a DOM e o Drak-Model!
+> Nesse projeto feito no Explorer, peguei um exercicio de lógica que é requisitado que o usuário tem que adivinhar um número, e em cima disso apliquei novos conhecimentos para poder trabalhar com a DOM e o Dark-Model!
 
 * Manipulação dos Elementos da Dom (innerText)
 * Add a função dark-Model
