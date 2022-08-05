@@ -25,7 +25,7 @@
 .body-list.black {
 
 
-  --color-text-h1: rgb(255, 255, 255);
+  --color-text-h1: rgb(253, 249, 249);
   --color-text-p: rgba(248, 248, 252, 0.8);
   --color-backGround-scre1: #5a5757;
   --color-backGround-body: rgb(53, 49, 49);
@@ -133,7 +133,7 @@
   height: 5.3rem;
   left: 151.5rem;
   top: 14.5rem;
-  background: #DCE2E9;
+  background: #ffffff;
   border-radius: 4px 0px 0px 4px;
   font-family: 'Montserrat';
   text-align: center;
@@ -147,6 +147,7 @@
   font-size: 2.4rem;
   text-align: center;
   margin-bottom: 1.2rem;
+  color: var(--color-text-h1);
   
 }
 
@@ -158,7 +159,7 @@
   height: 5.3rem;
   left: 194.5rem;
   top: 14.5rem;
-  background: #7879F1;
+  background: var(--btn-background);
   border-radius: 4px 4px 4px 4px;
   cursor: pointer;
   border: none;
@@ -168,11 +169,11 @@
   font-size: 1.6rem;
   line-height: 2.1rem;
   text-align: center;
-  color: #FFFFFF;
+  color: var(--btn-text-color);
 }
 
 .screnn2 button:hover{
-  background: #9b9bf7;
+  background: var(--btn-hover);
   transition: 0.3s;
   
 }
@@ -181,7 +182,7 @@
   font-style: normal;
   font-size: 1.6rem;
   text-align: center;
-  color: rgba(52, 53, 91, 0.8);
+  color: var(--color-text-p)
 }
 .hide{
   display: none;
@@ -198,10 +199,10 @@
   top: 2.1rem;
   right: 1.4rem;
   cursor: pointer;
+}
 
 
   
-}
 
   
 
