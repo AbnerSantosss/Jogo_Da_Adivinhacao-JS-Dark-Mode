@@ -3,7 +3,7 @@
 > Nesse projeto feito no Explorer, peguei um exercicio de lógica que é requisitado que o usuário tem que adivinhar um número, e em cima disso apliquei novos conhecimentos para poder trabalhar com a DOM e o Dark-Model!
 
 * Manipulação dos Elementos da Dom (innerText)
-* Add a função dark-Model
+* Add nova funcionalidade: dark-model
 * Usei o ".classList.toggle" para a troca das páginas e o dark-Mode
 * Aplicação da lógica do problema
 * Math.round(Math.random() * 10)  Para gerar números de 0 a 10
