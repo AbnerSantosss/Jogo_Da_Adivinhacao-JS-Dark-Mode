@@ -12,5 +12,6 @@
 
  
 Preview ⬇️⬇️
+Veja o projeto online : https://jogodaadivinhacao.netlify.app/
 
 ![— inclua um crédto](https://user-images.githubusercontent.com/107922389/182956395-991b2565-d383-4beb-a34e-1af9d8e983f4.gif)
